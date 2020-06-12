@@ -3,7 +3,6 @@ import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import friends from "./friends.json";
-import Counter from "./components/Counter";
 class App extends React.Component {
   state = {
     count: 0,
@@ -18,7 +17,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Counter />
+        
           <h1>Score Streak: {this.state.count}</h1>
             <h1>Score to Achieve: 12</h1>
         <Wrapper>

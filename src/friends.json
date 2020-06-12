@@ -65,14 +65,14 @@
   {
     "id": 10,
     "name": "Maggie",
-    "image": "https://pbs.twimg.com/profile_images/499683404859047937/LxLeDTsu.jpeg6",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Maggie_Simpson.png/220px-Maggie_Simpson.png",
     "occupation": "Cashier",
     "location": "O-Town, California"
   },
   {
     "id": 11,
     "name": "Ned",
-    "image": "https://lh3.googleusercontent.com/proxy/mucgF2yr5CBRnRYOFDuqZhNOONKyIXigG7hhbktEUM1N4MmcDzmw7kVnoWmiWqorc-T_2lFBlz8NVSKsoPvxoAV18YzfSmRgntGhqoJiQug5XekwyhRx16by_c2Ij4IHPE56wrC--pLxc9wwnywK21WnGL_sF2-XAhppc-9AtOW8J6heZg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Ned_Flanders.png/220px-Ned_Flanders.png",
     "occupation": "Superhero",
     "location": "Earth"
   },
