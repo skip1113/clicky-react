@@ -3,8 +3,8 @@ import "./style.css";
 
 function FriendCard(props) {
   return (
-    <div className="card" onClick={() => props.handleIncrement}>
-      <div className="img-container" onClick={() => props.handleIncrement}>
+    <div className="card" onClick={props.handleIncrement}>
+      <div className="img-container">
         <img alt={props.name} src={props.image} />
       </div>
       <div className="content">
