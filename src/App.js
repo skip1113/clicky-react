@@ -3,6 +3,7 @@ import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import friends from "./friends.json";
+import Nav from "./components/Nav";
 class App extends React.Component {
   state = {
     friends,
@@ -67,17 +68,16 @@ handleIncorrect = data => {
   render() {
     return (
       <div>
-
-        <h1>Score Streak: {this.state.count}</h1>
-        <h1>Top Score: {this.state.topScore}</h1>
+        
+        <Nav count={this.state.count} topScore={this.state.topScore} />
         <Wrapper>
+        {/* <h1>Score: {this.state.count}</h1> */}
           <Title>Simpsons Friends</Title>
           {this.state.friends.map(friends => (
             <FriendCard
+              key={friends.id}
               id={friends.id}
               image={friends.image}
-              name={friends.name}
-              shake={!this.state.count && this.state.topScore}
               handleClick={this.handleIncrement}
             />
           ))}
