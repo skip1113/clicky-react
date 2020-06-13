@@ -4,8 +4,9 @@ import "./style.css";
 function FriendCard(props) {
   return (
     <div className="card" onClick={props.handleIncrement}>
-      <div className="img-container">
-        <img alt={props.name} src={props.image} />
+      <div className="img-container" onClick={() => props.handleClick(props.id)}>
+        <img alt={props.name} src={props.image} className={`click-item${props.shake ? " shake" : ""}`} />
+        
       </div>
       <div className="content">
         <ul>
@@ -15,9 +16,6 @@ function FriendCard(props) {
           
         </ul>
       </div>
-      {/* <span onClick={() => props.handleIncrement()} className="remove">
-        𝘅
-      </span> */}
     </div>
   );
 }

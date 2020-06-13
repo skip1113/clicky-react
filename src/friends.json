@@ -3,84 +3,72 @@
     "id": 1,
     "name": "Lisa",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Lisa_Simpson.png/220px-Lisa_Simpson.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "clicked": false
   },
   {
     "id": 2,
     "name": "Bart",
     "image": "https://vignette.wikia.nocookie.net/great-characters/images/6/65/Bart_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20180623202228",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "clicked": false
   },
   {
     "id": 3,
     "name": "Ralph",
     "image": "https://vignette.wikia.nocookie.net/simpsons/images/1/14/Ralph_Wiggum.png/revision/latest/top-crop/width/360/height/360?cb=20100704163100",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "clicked": false
   },
   {
     "id": 4,
     "name": "Milhouse",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Milhouse_Van_Houten.png/220px-Milhouse_Van_Houten.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "clicked": false
   },
   {
     "id": 5,
     "name": "Martin",
     "image": "https://vignette.wikia.nocookie.net/p__/images/5/56/Martin_Prince_is_here.png/revision/latest?cb=20151026154358&path-prefix=protagonist",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "clicked": false
   },
   {
     "id": 6,
     "name": "Marge",
     "image": "https://i.ya-webdesign.com/images/simpsons-png-7.png",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "clicked": false
   },
   {
     "id": 7,
     "name": "Homer",
     "image": "https://i.pinimg.com/originals/f8/33/1f/f8331fd7aaef868226449d173517ec79.png",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "clicked": false
   },
   {
     "id": 8,
     "name": "Montgomery",
     "image": "https://i.pinimg.com/originals/e2/20/7f/e2207f07a19d216d907ba2d009da4ab0.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "clicked": false
   },
   {
     "id": 9,
     "name": "Barney",
     "image": "https://vignette.wikia.nocookie.net/p__/images/b/b4/Barnild_Gumble.png/revision/latest?cb=20160402113506&path-prefix=protagonist",
-    "occupation": "Adventurer",
-    "location": "California"
+    "clicked": false
   },
   {
     "id": 10,
     "name": "Maggie",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Maggie_Simpson.png/220px-Maggie_Simpson.png",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "clicked": false
   },
   {
     "id": 11,
     "name": "Ned",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Ned_Flanders.png/220px-Ned_Flanders.png",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "clicked": false
   },
   {
     "id": 12,
     "name": "Sideshow Bob",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/C-bob.png/220px-C-bob.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "clicked": false
   }
 ]
