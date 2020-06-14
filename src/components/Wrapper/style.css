@@ -1,6 +1,8 @@
 .wrapper {
   padding-top: 50px;
-  background: #ECEFF1;
+  background-image: url("https://www.cartoonswallpapers.net/wallpapers/simpsons-background-ipod.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100%;
   display: flex;
   flex-flow: row wrap;

@@ -1,8 +1,16 @@
 .title {
   width: 100%;
   text-align: center;
+  font-family: 'Perminant Marker', cursive;
   font-size: 3rem;
   text-decoration: underline;
-  color: #2A77AE;
-  margin-bottom: 50px;
+  color: rgb(254, 217, 15);
+  margin-top: -20px;
+  margin-bottom: 30px;
+  border-radius: 2px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding-bottom: 10px;
+  background-color: black;
 }
